@@ -5,7 +5,7 @@
     <groupId>com.intridea.io</groupId>
     <artifactId>vfs-s3</artifactId>
     <packaging>jar</packaging>
-    <version>2.1.0.nineworthies</version>
+    <version>2.2.0.nineworthies-SNAPSHOT</version>
 
     <name>vfs-s3</name>
 
@@ -74,7 +74,7 @@
         <url>${scm.url}</url>
         <connection>${scm.connection}</connection>
         <developerConnection>${scm.developerConnection}</developerConnection>
-        <tag>2.1.0.nineworthies</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
